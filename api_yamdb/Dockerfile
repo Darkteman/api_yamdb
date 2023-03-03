@@ -5,7 +5,7 @@ WORKDIR /app
 COPY requirements.txt .
 # вместо пути до папки теперь нужно что-то указывать или просто опускаем?
 
-RUN pip3 install -r /requirements.txt --no-cache-dir
+RUN pip3 install -r requirements.txt --no-cache-dir
 
 COPY . .
 
