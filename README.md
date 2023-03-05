@@ -1,5 +1,5 @@
 ![Yamdb Workflow Status](https://github.com/darkteman/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
-# yamdb_final
+# Проект временно доступен по адресу: http://130.193.50.220/
 REST API для сервиса YaMDb — базы отзывов о фильмах, книгах и музыке.
 
 Проект YaMDb собирает отзывы пользователей на произведения. 
