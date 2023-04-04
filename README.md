@@ -1,6 +1,5 @@
-![Yamdb Workflow Status](https://github.com/darkteman/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
-# Проект временно доступен по адресу: http://130.193.50.220/
-REST API для сервиса YaMDb — базы отзывов о фильмах, книгах и музыке.
+![Yamdb Workflow Status](https://github.com/darkteman/api_yamdb/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
+# REST API для сервиса YaMDb — база отзывов о фильмах, книгах и музыке
 
 Проект YaMDb собирает отзывы пользователей на произведения. 
 Сами произведения в YaMDb не хранятся, здесь нельзя посмотреть фильм или послушать музыку.
@@ -33,7 +32,7 @@ Cоздан в команде из трёх человек с использов
 ## Как запустить проект?
 1) Клонировать репозитроий с проектом:
 ```
-git clone https://github.com/Darkteman/infra_sp2.git
+git clone https://github.com/Darkteman/api_yamdb.git
 ```
 2) Создать .env файл внутри директории infra (на одном уровне с docker-compose.yaml). Например:
 ```
