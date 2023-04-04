@@ -1,6 +1,5 @@
-![Yamdb Workflow Status](https://github.com/darkteman/api_yamdb/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
-# REST API для сервиса YaMDb — база отзывов о фильмах, книгах и музыке
-
+# REST API для сервиса YaMDb
+### База отзывов о фильмах, книгах и музыке
 Проект YaMDb собирает отзывы пользователей на произведения. 
 Сами произведения в YaMDb не хранятся, здесь нельзя посмотреть фильм или послушать музыку.
 Произведения делятся на категории: «Книги», «Фильмы», «Музыка».
